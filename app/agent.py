@@ -6,7 +6,7 @@ from langchain_core.prompts import PromptTemplate
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.tools import Tool
 from langchain_core.agents import AgentAction, AgentFinish
-from typing import Union
+
 
 # Import custom tools
 from app.tools.weather import get_weather
