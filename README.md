@@ -236,7 +236,8 @@ curl -X POST http://localhost:8000/query \
 
 *(Note: LLM responses can vary slightly.)*
 ## Example Screenshot when the program is running
-![Screenshot](blob:https://imgur.com/f988db11-d4df-4e41-a112-3af8db203856)
+![img](https://i.imgur.com/6RtjQFd.png)
+
 ## Code Structure
 
 ```
