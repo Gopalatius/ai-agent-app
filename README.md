@@ -67,7 +67,7 @@ OPENWEATHER_API_KEY="your_open_weather_map_api_key"
 GOOGLE_API_KEY="your_google_gemini_api_key"
 ```
 
-### 3. Install Dependencies
+### 3. Install Dependencies (if running locally)
 
 Navigate to the root directory of your project (where `requirements.txt` is located) and install the required Python packages:
 
