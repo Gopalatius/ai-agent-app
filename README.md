@@ -34,7 +34,7 @@ This project implements a small backend HTTP API that acts as an AI agent router
 
 
 ```bash
-git clone ai-agent-app
+git clone https://github.com/Gopalatius/ai-agent-app.git
 ```
 
 ### 2. Set Up Environment Variables
