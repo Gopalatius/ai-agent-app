@@ -39,7 +39,7 @@ git clone ai-agent-app
 
 ### 2. Set Up Environment Variables
 
-This application requires API keys for OpenWeatherMap and Google Gemini.
+This application requires API keys for OpenWeatherMap and Google Gemini. Make sure to make .env file in the root directory.
 
 #### OpenWeatherMap API Key:
 
