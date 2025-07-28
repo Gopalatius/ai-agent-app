@@ -30,17 +30,11 @@ This project implements a small backend HTTP API that acts as an AI agent router
 * pip (Python package installer)
 * Docker (if you plan to run it via Docker)
 
-### 1. Clone the Repository (Simulated)
+### 1. Clone the Repository
 
 
 ```bash
-# Example: Create the project directory and files
-# (You've already received the file contents above)
-mkdir ai-agent-app
-cd ai-agent-app
-mkdir app
-mkdir app/tools
-# Then populate the files as provided in the code blocks above
+git clone ai-agent-app
 ```
 
 ### 2. Set Up Environment Variables
